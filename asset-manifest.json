@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TJC-eRhema-study/static/css/main.ea567884.css",
+    "main.js": "/TJC-eRhema-study/static/js/main.25243d5a.js",
+    "static/js/453.ef0ea716.chunk.js": "/TJC-eRhema-study/static/js/453.ef0ea716.chunk.js",
+    "index.html": "/TJC-eRhema-study/index.html",
+    "main.ea567884.css.map": "/TJC-eRhema-study/static/css/main.ea567884.css.map",
+    "main.25243d5a.js.map": "/TJC-eRhema-study/static/js/main.25243d5a.js.map",
+    "453.ef0ea716.chunk.js.map": "/TJC-eRhema-study/static/js/453.ef0ea716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea567884.css",
+    "static/js/main.25243d5a.js"
+  ]
+}
